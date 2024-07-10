@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/maven/Todo_App/src/java/conexion/Conexion.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/maven/Todo_App/src/java/controlador/RegistroServlet.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/maven/Todo_App/web/sing_up.jsp</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/maven/Todo_App/web/task.jsp</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/maven/Todo_App/web/index.jsp</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/maven/Todo_App/src/java/modelo/UserStatus.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/maven/Todo_App/web/createTask.jsp</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/maven/Todo_App/src/java/modelo/TaskStatus.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/maven/Todo_App/src/java/modelo/Task.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/maven/Todo_App/web/setting.jsp</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/maven/Todo_App/web/main.jsp</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/maven/Todo_App/web/start.jsp</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/maven/Todo_App/src/java/dao/UserDAO.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/maven/Todo_App/src/java/controlador/LoginServlet.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/maven/Todo_App/web/profile.jsp</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/maven/Todo_App/src/java/modelo/TaskPriority.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/maven/Todo_App/src/java/modelo/User.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/maven/Todo_App/src/java/controlador/ControladorMenu.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/maven/Todo_App/web/error.jsp</file>
+        </group>
+    </open-files>
+</project-private>
